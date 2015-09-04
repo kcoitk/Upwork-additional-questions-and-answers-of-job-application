@@ -134,7 +134,7 @@ Photoshop, Designing, HTML5, CSS3, jQuery, Java Script, Bootstrap, PHP and WordP
 
  
 
-<b>Why should i choose you over the other 100 that have applied for this Job?</p>
+<b>Why should i choose you over the other 100 that have applied for this Job?</b>
 
 <p>It is a good thing you have asked. Here you will found many so called workers who do not know how to work. I am totally different from them. I have a long term plan to work in here, that’s why I am here with all qualities and experiences. I am here not to cheat you.</p>
 
