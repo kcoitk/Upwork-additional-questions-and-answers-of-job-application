@@ -1,0 +1,19 @@
+
+#resuil-title {color:#1a0dab;font-weight: bold;
+font-style: normal;  }
+.login form { width:600px; height:0 auto;  margin:0 auto; } 
+.search { border: 1px solid #ccc;width:572px;min-height: 30px;
+padding: 4px 20px 4px 8px;font-size: 18px;-moz-transition: all .2s linear; 
+-webkit-transition: all .2s linear;transition: all .2s linear;}
+.search:hover { width: 572px;border-color:#999999;}	  	  
+.search:focus { width: 572px;border-color:#03F;outline: none;}
+.but{ padding: 6px 10px;color: #222;border-radius:3px solid #00F;
+border:1px solid #CCC;background: #f4f4f4;margin-bottom:4%;font-weight:bold;cursor:pointer;
+font-size:75%;font-family: arial,sans-serif;-moz-border-radius: 3px ;-webkit-border-radius: 3px;
+border-radius: 3px ;  }
+.but:hover { padding: 6px 10px;color: #222;background: #f4f4f4;margin-bottom:4%;
+cursor:pointer;font-size:75%;border-color:#f7f7f7;font-family: arial,sans-serif;
+-moz-border-radius: 3px ;-webkit-border-radius: 3px; border-radius: 3px ;  }
+.but:before { content: 'ðŸ”'; } 
+.lang a{ font-weight:100px;text-decoration:none;}
+.highlight { font-weight:bolder; color:red; font-style:bold; }
