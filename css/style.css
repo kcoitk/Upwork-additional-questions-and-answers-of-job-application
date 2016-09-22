@@ -1,0 +1,90 @@
+/* =Reset default browser CSS
+-------------------------------------------------------------- */
+html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, samp, small, span, strong, sub, sup, tt, var, b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	background-color: transparent;
+	background-position: top left;
+	background-repeat: no-repeat;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+ol, ul {
+	list-style-type: none;
+}
+
+em, address, strong {
+	font-style: normal;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* Standard HTML Tag Definition 
+-------------------------------------------------------------- */
+body, form, input, button, select, textarea, label {
+	font-family: Arial, sans-serif, Verdana;
+	font-size: 12px;
+	color: #000000;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #ffffff;
+}
+
+/* =Custom Classes
+-------------------------------------------------------------- */
+.clear {
+	clear: both;
+}
+
+/* =Layout
+-------------------------------------------------------------- */
+#wrapper {
+	width: 100%;
+	margin: 0 auto;
+}
+
+/* =Header
+-------------------------------------------------------------- */
+#header {
+	width: 100%;
+	margin: 0 auto;
+}
+
+/* =Main
+-------------------------------------------------------------- */
+
+#main {
+	width: 100%;
+	margin: 0 auto;
+}
+
+/* =Content
+-------------------------------------------------------------- */
+#content {
+	
+}
+
+/* =Sidebar
+-------------------------------------------------------------- */
+#sidebar {
+	
+}
+
+/* =Footer
+-------------------------------------------------------------- */
+#footer {
+	width: 100%;
+	margin: 0 auto;
+}
